@@ -2,6 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.capgroup</groupId>
   <artifactId>HelloWorldJava</artifactId>
+  packaging>war</packaging>
   <version>1.0.0</version>
   
   <dependencies>
